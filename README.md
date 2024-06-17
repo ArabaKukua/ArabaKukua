@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArabaKukua
-- 👀 I’m interested in UX/UI design, interaction design and UX research
-- 🌱 I’m currently learning psychology
+- 👀 I’m interested in UX/UI design, web design and UX research
+- 🌱 I’m currently a BSc psychology graduate!
 - 💞️ I’m looking to collaborate on design projects, software development
 - 📫 How to reach me ... araba.adenumensah@gmail.com 
 
